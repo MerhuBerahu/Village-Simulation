@@ -1,0 +1,5 @@
+create base being class
+create base job class
+create base crafting class
+create base item class
+create base routine class
